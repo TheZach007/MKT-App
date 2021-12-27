@@ -1,0 +1,6 @@
+framework module Pods_MKT_App {
+  umbrella header "Pods-MKT-App-umbrella.h"
+
+  export *
+  module * { export * }
+}
