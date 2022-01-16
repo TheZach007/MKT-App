@@ -21,6 +21,7 @@
 		3600EA8B2777261E00ED23B6 /* ListTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3600EA8A2777261E00ED23B6 /* ListTableViewCell.xib */; };
 		3600EA8D2777265B00ED23B6 /* UserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3600EA8C2777265B00ED23B6 /* UserModel.swift */; };
 		3600EA8F2777290500ED23B6 /* CommentModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3600EA8E2777290500ED23B6 /* CommentModel.swift */; };
+		363F9188279451B900532D0B /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 363F9187279451B800532D0B /* ProfileViewController.swift */; };
 		36A4BC3427793394004C3BE2 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36A4BC3327793394004C3BE2 /* DetailsViewController.swift */; };
 		36A4BC36277939CE004C3BE2 /* CommentTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36A4BC35277939CE004C3BE2 /* CommentTableViewCell.swift */; };
 		36A4BC38277939E0004C3BE2 /* CommentTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 36A4BC37277939E0004C3BE2 /* CommentTableViewCell.xib */; };
@@ -68,6 +69,7 @@
 		3600EA8A2777261E00ED23B6 /* ListTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ListTableViewCell.xib; sourceTree = "<group>"; };
 		3600EA8C2777265B00ED23B6 /* UserModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserModel.swift; sourceTree = "<group>"; };
 		3600EA8E2777290500ED23B6 /* CommentModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentModel.swift; sourceTree = "<group>"; };
+		363F9187279451B800532D0B /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 		36A4BC3327793394004C3BE2 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 		36A4BC35277939CE004C3BE2 /* CommentTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentTableViewCell.swift; sourceTree = "<group>"; };
 		36A4BC37277939E0004C3BE2 /* CommentTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CommentTableViewCell.xib; sourceTree = "<group>"; };
@@ -210,6 +212,7 @@
 				3600EA822777014900ED23B6 /* ListViewController.swift */,
 				36A4BC3327793394004C3BE2 /* DetailsViewController.swift */,
 				36A4BC3927795B05004C3BE2 /* UserViewController.swift */,
+				363F9187279451B800532D0B /* ProfileViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -473,6 +476,7 @@
 				3600EA4F2776FAC700ED23B6 /* SceneDelegate.swift in Sources */,
 				36A4BC3427793394004C3BE2 /* DetailsViewController.swift in Sources */,
 				36A4BC36277939CE004C3BE2 /* CommentTableViewCell.swift in Sources */,
+				363F9188279451B900532D0B /* ProfileViewController.swift in Sources */,
 				3600EA832777014900ED23B6 /* ListViewController.swift in Sources */,
 				3600EA8F2777290500ED23B6 /* CommentModel.swift in Sources */,
 				3600EA85277704E400ED23B6 /* ListModel.swift in Sources */,
